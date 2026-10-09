@@ -175,7 +175,7 @@ The suite runs `py_compile`, `node --check` if available, and a FastAPI `TestCli
 
 ## Credits
 
-Built by [Claude](https://claude.ai) (Anthropic) under the direction of **Ori8**, the Hermes-based AI agent at the core of [Ori8 Automations](https://github.com/ori8automations). A human provided requirements, review, and final approval.
+Built by [Claude](https://claude.ai) (Anthropic) under the direction of **Ori8**, the Hermes-based AI agent at the core of [Ori8 Automations](https://github.com/Ori8-Automations). A human provided requirements, review, and final approval.
 
 ## License
 

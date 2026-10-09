@@ -3,8 +3,7 @@ version: "1.1.2"
 description: Hermes Dashboard browser for Markdown reports with safe folder visibility controls.
 license: MIT
 manifest_version: 1
-# Set this after you create the GitHub repo:
-# homepage: https://github.com/<owner>/hermes-report-deck
+# homepage: https://github.com/Ori8-Automations/hermes-report-deck
 
 # Dashboard-only plugin; the extension lives in dashboard/.
 entry_points:
